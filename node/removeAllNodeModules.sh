@@ -1,9 +1,8 @@
 #!/bin/bash
 
-:'
-    Author: Thyago Erick
-    Date: 23/01/2024 
-'
+# Author: Thyago Erick
+# Date: 23/01/2024 
+
 # Execute no terminal: chmod 777 removeAllNodeModules.sh
 # Após isso para efetuar as remoções execute no terminal: ./removeAllNodeModules.sh
 
